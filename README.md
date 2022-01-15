@@ -9,9 +9,11 @@ Libraries used: Pandas, Matplotlib, Numpy
 > **As this assignment was done back in early 2021, the analysis and trends are not indicative of current vaccine trends across SEA hence this analysis is outdated* 
 ---
 ### Essay Features Analysis 
+
 The purpose of this assignment was to use historical data of essay features and predict scores of new essays based on their features. Used a support vector machine to perform 
 the prediction. 
 Libraries used: Pandas, Matplotlib, Numpy & Sklearn 
+
 --- 
 ### Social media Analysis 
 The purpose of this assignment was to clean data using Bash and analyse information regarding Barack Obama on Facebook. 
